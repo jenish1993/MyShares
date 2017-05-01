@@ -1,0 +1,22 @@
+12.0
+20
+1       SQLCHAR             0       0       ""      2        Column1                                            SQL_Latin1_General_CP1_CI_AS
+2       SQLCHAR             0       0       ""      3        Column2                                            SQL_Latin1_General_CP1_CI_AS
+3       SQLCHAR             0       0       ""      0        XyzColumnToBypass                                           ""
+4       SQLCHAR             0       0       ""      0        XyzColumnToBypass                                           ""
+5       SQLCHAR             0       0       ""      0        XyzColumnToBypass                                           ""
+6       SQLCHAR             0       0       ""      0        XyzColumnToBypass                                           ""
+7       SQLCHAR             0       0       ""      0        XyzColumnToBypass                                           ""
+8       SQLCHAR             0       0       ""      0        XyzColumnToBypass                                           ""
+9       SQLCHAR             0       0       ""      0        XyzColumnToBypass                                           ""
+10      SQLCHAR             0       0       ""      0        XyzColumnToBypass                                           ""
+11      SQLCHAR             0       0       ""      0        XyzColumnToBypass                                           ""
+12      SQLCHAR             0       0       ""      0        XyzColumnToBypass                                           ""
+13      SQLCHAR             0       0       ""      7        Column4                                            SQL_Latin1_General_CP1_CI_AS
+14      SQLCHAR             0       0       ""      6        Column5                                            SQL_Latin1_General_CP1_CI_AS
+15      SQLCHAR             0       0       ""      5        Column6                                            SQL_Latin1_General_CP1_CI_AS
+16      SQLCHAR             0       0       ""      0        XyzColumnToBypass                                           ""
+17      SQLCHAR             0       0       ""      0        XyzColumnToBypass                                           ""
+18      SQLCHAR             0       0       ""      0        XyzColumnToBypass                                           ""
+19      SQLCHAR             0       0       ""      0        XyzColumnToBypass                                           ""
+20      SQLCHAR             0       0       "\r\n"   0        XyzColumnToBypass                                           ""
